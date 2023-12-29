@@ -6,6 +6,7 @@ const allowedOrigins = new Set([
   'https://theworklopedia.com',
   'https://worklopedia-frontend.vercel.app',
   'https://worklopedia-dashboard.vercel.app',
+  'https://adorable-bavarois-a7978a.netlify.app',
 ]);
 
 const corsOptions = {
